@@ -1,0 +1,37 @@
+{
+  "name": "get-driver-scripts",
+  "version": "1.0.0",
+  "description": "Get the entry points from a config or found within a directory",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrjoelkemp/node-get-driver-scripts.git"
+  },
+  "keywords": [
+    "driver",
+    "scripts",
+    "ast",
+    "modules",
+    "dependencies"
+  ],
+  "author": "Joel Kemp <joel@mrjoelkemp.com> (http://www.mrjoelkemp.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrjoelkemp/node-get-driver-scripts/issues"
+  },
+  "homepage": "https://github.com/mrjoelkemp/node-get-driver-scripts",
+  "devDependencies": {
+    "mocha": "~2.0.1"
+  },
+  "dependencies": {
+    "app-root": "~2.0.1",
+    "get-modules-to-build": "~1.0.1",
+    "resolve-dependency-path": "~1.0.1"
+  }
+}
