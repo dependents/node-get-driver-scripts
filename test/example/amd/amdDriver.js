@@ -1,5 +1,5 @@
 require([
-  'src/amdA'
+  'amdA'
 ], function(a) {
   return a;
 });
