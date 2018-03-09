@@ -30,8 +30,8 @@
     "mocha": "~2.0.1"
   },
   "dependencies": {
-    "app-root": "~2.0.3",
-    "debug": "~2.2.0",
+    "app-root": "^3.0.0",
+    "debug": "^3.1.0",
     "get-modules-to-build": "~1.0.1"
   }
 }
