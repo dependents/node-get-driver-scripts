@@ -1,6 +1,6 @@
 {
   "name": "get-driver-scripts",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Get the entry points from a config or found within a directory",
   "main": "index.js",
   "directories": {
